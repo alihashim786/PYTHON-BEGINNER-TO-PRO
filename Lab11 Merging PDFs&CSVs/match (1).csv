@@ -1,0 +1,106 @@
+Match_Id,Match_Date,Team_Name_Id,Opponent_Team_Id,Season_Id,Venue_Name,Toss_Winner_Id,Toss_Decision,IS_Superover
+335987,18-Apr-08,2,1,1,M Chinnaswamy Stadium,2,field,0
+335988,19-Apr-08,4,3,1,"Punjab Cricket Association Stadium, Mohali",3,bat,0
+335989,19-Apr-08,6,5,1,Feroz Shah Kotla,5,bat,0
+335990,20-Apr-08,7,2,1,Wankhede Stadium,7,bat,0
+335991,20-Apr-08,1,8,1,Eden Gardens,8,bat,0
+335992,21-Apr-08,5,4,1,Sawai Mansingh Stadium,4,bat,0
+335993,22-Apr-08,8,6,1,"Rajiv Gandhi International Stadium, Uppal",8,bat,0
+335994,23-Apr-08,3,7,1,"MA Chidambaram Stadium, Chepauk",7,field,0
+335995,24-Apr-08,8,5,1,"Rajiv Gandhi International Stadium, Uppal",5,field,0
+335996,25-Apr-08,4,7,1,"Punjab Cricket Association Stadium, Mohali",7,field,0
+335997,26-Apr-08,2,5,1,M Chinnaswamy Stadium,5,field,0
+335998,26-Apr-08,3,1,1,"MA Chidambaram Stadium, Chepauk",1,bat,0
+335999,27-Apr-08,7,8,1,Dr DY Patil Sports Academy,8,field,0
+336000,27-Apr-08,4,6,1,"Punjab Cricket Association Stadium, Mohali",6,bat,0
+336001,28-Apr-08,2,3,1,M Chinnaswamy Stadium,3,bat,0
+336002,29-Apr-08,1,7,1,Eden Gardens,1,bat,0
+336003,30-Apr-08,6,2,1,Feroz Shah Kotla,2,field,0
+336004,1-May-08,8,4,1,"Rajiv Gandhi International Stadium, Uppal",4,field,0
+336005,1-May-08,5,1,1,Sawai Mansingh Stadium,5,bat,0
+336006,2-May-08,3,6,1,"MA Chidambaram Stadium, Chepauk",3,bat,0
+336007,25-May-08,8,2,1,"Rajiv Gandhi International Stadium, Uppal",8,bat,0
+336008,3-May-08,4,1,1,"Punjab Cricket Association Stadium, Mohali",4,bat,0
+336009,4-May-08,7,6,1,Dr DY Patil Sports Academy,6,field,0
+336010,4-May-08,5,3,1,Sawai Mansingh Stadium,3,bat,0
+336011,5-May-08,2,4,1,M Chinnaswamy Stadium,4,field,0
+336012,6-May-08,3,8,1,"MA Chidambaram Stadium, Chepauk",8,field,0
+336013,7-May-08,7,5,1,Dr DY Patil Sports Academy,7,field,0
+336014,8-May-08,6,3,1,Feroz Shah Kotla,3,field,0
+336015,8-May-08,1,2,1,Eden Gardens,1,bat,0
+336016,9-May-08,5,8,1,Sawai Mansingh Stadium,5,field,0
+336017,28-May-08,2,7,1,M Chinnaswamy Stadium,7,field,0
+336018,10-May-08,3,4,1,"MA Chidambaram Stadium, Chepauk",4,field,0
+336019,11-May-08,8,1,1,"Rajiv Gandhi International Stadium, Uppal",1,bat,0
+336020,11-May-08,5,6,1,Sawai Mansingh Stadium,5,field,0
+336021,12-May-08,4,2,1,"Punjab Cricket Association Stadium, Mohali",2,bat,0
+336022,13-May-08,1,6,1,Eden Gardens,1,bat,0
+336023,14-May-08,7,3,1,Wankhede Stadium,7,field,0
+336024,28-May-08,4,5,1,"Punjab Cricket Association Stadium, Mohali",5,field,0
+336025,15-May-08,6,8,1,Feroz Shah Kotla,8,field,0
+336026,16-May-08,7,1,1,Wankhede Stadium,7,field,0
+336027,17-May-08,6,4,1,Feroz Shah Kotla,6,bat,0
+336028,17-May-08,5,2,1,Sawai Mansingh Stadium,2,field,0
+336029,18-May-08,8,7,1,"Rajiv Gandhi International Stadium, Uppal",8,field,0
+336030,18-May-08,1,3,1,Eden Gardens,1,bat,0
+336031,19-May-08,2,6,1,M Chinnaswamy Stadium,6,field,0
+336032,20-May-08,1,5,1,Eden Gardens,5,field,0
+336033,21-May-08,7,4,1,Wankhede Stadium,7,field,0
+336034,21-May-08,3,2,1,"MA Chidambaram Stadium, Chepauk",2,bat,0
+336036,23-May-08,4,8,1,"Punjab Cricket Association Stadium, Mohali",4,field,0
+336037,24-May-08,6,7,1,Feroz Shah Kotla,6,field,0
+336038,24-May-08,3,5,1,"MA Chidambaram Stadium, Chepauk",5,bat,0
+336039,3-May-08,2,8,1,M Chinnaswamy Stadium,8,field,0
+336040,25-May-08,1,4,1,Eden Gardens,4,bat,0
+336041,26-May-08,5,7,1,Sawai Mansingh Stadium,5,field,0
+336042,27-May-08,8,3,1,"Rajiv Gandhi International Stadium, Uppal",8,bat,0
+336043,30-May-08,6,5,1,Wankhede Stadium,6,field,0
+336044,31-May-08,3,4,1,Wankhede Stadium,4,bat,0
+336045,1-Jun-08,3,5,1,Dr DY Patil Sports Academy,5,field,0
+392186,18-Apr-09,3,7,2,Newlands,3,field,0
+392187,18-Apr-09,2,5,2,Newlands,2,bat,0
+392188,19-Apr-09,6,4,2,Newlands,6,field,0
+392189,19-Apr-09,8,1,2,Newlands,1,bat,0
+392190,20-Apr-09,2,3,2,St George's Park,3,bat,0
+392191,21-Apr-09,4,1,2,Kingsmead,1,field,0
+392193,22-Apr-09,2,8,2,Newlands,8,bat,0
+392194,23-Apr-09,3,6,2,Kingsmead,6,bat,0
+392195,23-Apr-09,1,5,2,Newlands,1,field,1
+392196,24-Apr-09,2,4,2,Kingsmead,2,bat,0
+392197,25-Apr-09,8,7,2,Kingsmead,8,bat,0
+392199,26-Apr-09,2,6,2,St George's Park,2,bat,0
+392200,26-Apr-09,4,5,2,Newlands,4,bat,0
+392201,27-Apr-09,3,8,2,Kingsmead,8,field,0
+392202,27-Apr-09,1,7,2,St George's Park,7,bat,0
+392203,28-Apr-09,6,5,2,SuperSport Park,6,bat,0
+392204,29-Apr-09,2,1,2,Kingsmead,1,bat,0
+392205,29-Apr-09,4,7,2,Kingsmead,4,bat,0
+392206,30-Apr-09,8,6,2,SuperSport Park,6,field,0
+392207,30-Apr-09,3,5,2,SuperSport Park,5,field,0
+392208,1-May-09,1,7,2,Buffalo Park,7,bat,0
+392209,1-May-09,2,4,2,Kingsmead,2,bat,0
+392210,2-May-09,8,5,2,St George's Park,8,bat,0
+392211,2-May-09,3,6,2,New Wanderers Stadium,6,field,0
+392212,3-May-09,4,1,2,St George's Park,1,bat,0
+392213,3-May-09,2,7,2,New Wanderers Stadium,7,bat,0
+392214,4-May-09,3,8,2,Buffalo Park,3,bat,0
+392215,5-May-09,4,5,2,Kingsmead,4,field,0
+392216,5-May-09,6,1,2,Kingsmead,1,bat,0
+392217,6-May-09,8,7,2,SuperSport Park,8,bat,0
+392218,7-May-09,2,5,2,SuperSport Park,5,field,0
+392219,7-May-09,3,4,2,SuperSport Park,3,bat,0
+392220,8-May-09,6,7,2,Buffalo Park,7,bat,0
+392221,9-May-09,8,4,2,De Beers Diamond Oval,4,field,0
+392222,9-May-09,3,5,2,De Beers Diamond Oval,5,bat,0
+392223,10-May-09,2,7,2,St George's Park,7,bat,0
+392224,10-May-09,6,1,2,New Wanderers Stadium,6,field,0
+392225,11-May-09,8,5,2,De Beers Diamond Oval,8,bat,0
+392226,12-May-09,2,1,2,SuperSport Park,2,field,0
+392227,12-May-09,4,7,2,SuperSport Park,4,bat,0
+392228,13-May-09,8,6,2,Kingsmead,8,field,0
+392229,14-May-09,2,3,2,Kingsmead,3,bat,0
+392230,14-May-09,7,5,2,Kingsmead,5,bat,0
+392231,15-May-09,6,4,2,OUTsurance Oval,4,field,0
+392232,16-May-09,3,7,2,St George's Park,7,bat,0
+392233,16-May-09,8,1,2,New Wanderers Stadium,8,field,0
+392234,17-May-09,8,4,2,New Wanderers Stadium,8,field,0

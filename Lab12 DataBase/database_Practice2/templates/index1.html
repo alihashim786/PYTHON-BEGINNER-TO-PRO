@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product List</title>
+</head>
+<body>
+
+<h1>Product List</h1>
+
+{% for product in products %}
+    <div>
+        <h2>{{ product.name }}</h2>
+        <p>Price: {{ product.price }}</p>
+        <p>Brand: {{ product.brand }}</p>
+        <a href="{{ url_for('product_detail', product_id=product.id) }}">View Details</a>
+    </div>
+{% endfor %}
+
+</body>
+</html>

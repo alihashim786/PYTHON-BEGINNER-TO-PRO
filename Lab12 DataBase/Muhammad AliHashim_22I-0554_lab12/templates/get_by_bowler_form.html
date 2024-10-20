@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get by Bowler ID</title>
+</head>
+<body>
+    <h1>Get Records by Bowler ID</h1>
+    <form method="post" action="{{ url_for('get_by_bowler') }}">
+        <label for="bowler_id">Bowler ID:</label>
+        <input type="number" name="bowler_id" required><br>
+
+        <input type="submit" value="Get Records">
+    </form>
+</body>
+</html>

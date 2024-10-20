@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Record</title>
+</head>
+<body>
+    <h1>Add a New Cricket Record</h1>
+    <form method="post" action="{{ url_for('add_record') }}">
+        <label for="batsman_name">Batsman Name:</label>
+        <input type="text" name="batsman_name" required><br>
+
+        <label for="bowler_id">Bowler ID:</label>
+        <input type="number" name="bowler_id" required><br>
+
+        <label for="score">Score:</label>
+        <input type="number" name="score" required><br>
+
+        <input type="submit" value="Add Record">
+    </form>
+</body>
+</html>
