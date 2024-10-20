@@ -81,7 +81,7 @@ Plus email me for Python Theoretical Notes
 
 # Lab 06 (Matplotlib)
 
-# Outline
+## Outline
 * Matplotlib
 * charts
 * Histograms
@@ -93,7 +93,7 @@ Plus email me for Python Theoretical Notes
 
 # Lab 07 (Statistical Analysis)
 
-# Outline
+## Outline
 * Measures of dispersion or variability
 * Variance
 * Standard deviation
