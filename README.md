@@ -5,7 +5,12 @@ This repository contains all the Practices on Python Basics upto going to pro Le
 
 In this repository I have concluded from all the basic tasks of python to the Pro level Python Coding
 
+# Lab 01
 
+* Input/Output
+* Loops
+* Functions
+* Tasks
 
 # Lab 02
 
