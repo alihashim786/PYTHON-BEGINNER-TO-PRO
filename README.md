@@ -16,7 +16,7 @@ If you have any queries, feel free to email me at [muhammadalihashim514@gmail.co
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-hashim-5115882b4) to stay in touch and network.
 
-Plus email me for Python Theoretial Notes
+Plus email me for Python Theoretical Notes
 
 
 # Lab 01 (Python Basics P1)
