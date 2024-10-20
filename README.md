@@ -7,7 +7,9 @@ In this repository I have concluded from all the basic tasks of python to the Pr
 
 *THIS REPOSITORY ALSO CONTAINS THE PRACTICE ON LIBRARIES OF PYTHON*
 
-*EACH LAB CONTAINS A DETAILED EXPLANATION OF TOPIC WITH THE CODE SNIPETS AND OUTPUTS*
+
+> **Important:** EACH LAB CONTAINS A DETAILED EXPLANATION OF TOPIC WITH THE CODE SNIPETS AND OUTPUTS
+
 
 ## <img src="https://img.icons8.com/ios/50/000000/email-open.png" width="20"/> Contact:
 If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
